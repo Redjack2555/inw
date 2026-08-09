@@ -3,5 +3,10 @@
     "device_id": "777fae4334b1a2e4",
     "key": "NT-1111-2222",
     "status": "active"
+  },
+  {
+    "device_id": "b695c9a3d8980127",
+    "key": "NT-USER01-NOOK",
+    "status": "active"
   }
 ]
